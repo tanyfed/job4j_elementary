@@ -16,4 +16,8 @@ public class Calculator {
         System.out.println(fiveMinusTwo);
         System.out.println(fourTimeTwo);
     }
+
+    public static void plus(int i, int i1) {
+        System.out.println(i + i1);
+    }
 }
